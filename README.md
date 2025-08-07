@@ -13,7 +13,7 @@ Whether working on personal passion projects or professional systems, I love tra
 
 Constantly learning: Sharpening my skills on Clouds and AI at the moment. 🎓
 
-Portfolio: 
+Checkout my portfolio at: 
 
 ---
 ### Get in Touch
@@ -26,7 +26,6 @@ Email: kaiden.nguyen202@gmail.com
 LinkedIn: https://www.linkedin.com/in/kaidenme/
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" height="170" /> </p>
 
 ---
 ###Tech Stack
