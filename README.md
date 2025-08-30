@@ -25,12 +25,12 @@ Email: kaiden.nguyen202@gmail.com
 LinkedIn: https://www.linkedin.com/in/kaidenme/
 
 ---
-
----
-###Tech Stack
+### Tech Stack
 
 ```bash
-Languages:      C# | JavaScript | SQL | Bash | Python  
-Frameworks:    .NET | Flask | React | Tailwind  
-Tools:         AWS | Docker | Git | Postman | VS Code | Pandas | scikit-learn  
-Databases:     MySQL | AWS S3 | DynamoDB
+Languages:            : C#, JavaScript, SQL, Bash, Python
+Backend:              : ASP.NET Core, MVC
+Frontend:             : React, Tailwind CSS
+Cloud | DevOps:       : AWS, Docker
+Databases | Storage:  : MySQL, DynamoDB, Amazon S3
+Tooling | Productivity: Git, Postman, VS Code, JIRA, Confluence
