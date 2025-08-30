@@ -8,12 +8,11 @@
 
 ### About Me
 
-I'm a full stack developer who builds scalable, cloud-powered web applications. I specialize in .NET, C#, JavaScript, React, and AWS to create clean, efficient solutions that solve real-world problems.
-Whether working on personal passion projects or professional systems, I love transforming ideas into high-performance solutions, from developing APIs and optimising cloud infrastructure to building intuitive interfaces.
+I’m a full-stack developer with nearly 2 years of experience building scalable, cloud-powered web applications. I specialize in the Microsoft stack for backend development and modern JavaScript frameworks on the frontend, with AWS powering cloud infrastructure. I work across the full development cycle—from designing APIs and optimizing deployments to creating responsive, user-friendly interfaces.
 
-Constantly learning: Sharpening my skills on Clouds and AI at the moment. 🎓
+Constantly learning: Sharpening my skills on Clouds and AI at the moment. �
 
-Checkout my portfolio at: 
+Checkout my portfolio at: [Link](https://kaidendev.vercel.app)
 
 ---
 ### Get in Touch
