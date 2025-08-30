@@ -8,7 +8,7 @@
 
 ### About Me
 
-I’m a full-stack developer with nearly 2 years of experience building scalable, cloud-powered web applications. I specialize in the Microsoft stack for backend development and modern JavaScript frameworks on the frontend, with AWS powering cloud infrastructure. I work across the full development cycle—from designing APIs and optimizing deployments to creating responsive, user-friendly interfaces.
+Hi there! I’m a full-stack developer with nearly 2 years of experience building scalable, cloud-powered web applications. I specialize in the Microsoft stack for backend development and modern JavaScript frameworks on the frontend, with AWS powering cloud infrastructure. I work across the full development cycle, from designing APIs and optimizing deployments to creating responsive, user-friendly interfaces.
 
 Constantly learning: Sharpening my skills on Clouds and AI at the moment. 
 
